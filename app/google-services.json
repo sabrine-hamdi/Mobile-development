@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474343781785",
+    "project_id": "auth-e15e5",
+    "storage_bucket": "auth-e15e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474343781785:android:a9403db936d951f2964f08",
+        "android_client_info": {
+          "package_name": "com.example.charity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474343781785-bbd14jo3pt87q9tt7orp1jqg8vj4k63c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Vbu3P3GESmY1w53E5pa0bgpvWVPNmvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474343781785-bbd14jo3pt87q9tt7orp1jqg8vj4k63c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

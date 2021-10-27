@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Charity</string>
+    <string name="register_msg">No account? Create new one</string>
+    <string name="BtnCnx">Login</string>
+    <string name="Psw_hint">Password</string>
+    <string name="email_hint">Email</string>
+</resources>
